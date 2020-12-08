@@ -1,0 +1,83 @@
+ID,Genotype,Treatment,Branch,Herbivory (%),Herbivory
+3117,Wild,control,1,2.802,0.02802
+3117,Wild,control,2,0.512,0.00512
+3117,Wild,inducción ,1,1.354,0.01354
+3117,Wild,inducción ,2,1.706,0.01706
+3119,Wild,control,1,1.116,0.01116
+3119,Wild,control,2,0.514,0.00514
+3119,Wild,inducción ,1,0.73,0.0073
+3119,Wild,inducción ,2,0.272,0.00272
+3120,Wild,control,1,2.562,0.02562
+3120,Wild,control,2,0.098,0.00098
+3120,Wild,inducción ,1,3.888,0.03888
+3120,Wild,inducción ,2,1.15,0.0115
+3125,Wild,control,1,0.682,0.00682
+3125,Wild,control,2,2.2,0.022
+3125,Wild,inducción ,1,1.388,0.01388
+3125,Wild,inducción ,2,4.28,0.0428
+3130,Wild,control,1,1.504,0.01504
+3130,Wild,control,2,1.724,0.01724
+3130,Wild,inducción ,1,6.288,0.06288
+3130,Wild,inducción ,2,2.432,0.02432
+3134,Wild,control,1,7.954,0.07954
+3134,Wild,control,2,2.348,0.02348
+3134,Wild,inducción ,1,1.992,0.01992
+3134,Wild,inducción ,2,2.43,0.0243
+3392,Wild,control,1,2.118,0.02118
+3392,Wild,control,2,8.944,0.08944
+3392,Wild,inducción ,1,0.658,0.00658
+3392,Wild,inducción ,2,2.668,0.02668
+3114,Cry,control,1,3.484,0.03484
+3114,Cry,control,2,1.18,0.0118
+3114,Cry,inducción ,1,0.156,0.00156
+3114,Cry,inducción ,2,2.302,0.02302
+3115,Cry,control,1,0.07,0.0007
+3115,Cry,control,2,0.812,0.00812
+3115,Cry,inducción ,1,0.164,0.00164
+3115,Cry,inducción ,2,0.322,0.00322
+3116,Cry,control,1,0.08,0.0008
+3116,Cry,control,2,0.254,0.00254
+3116,Cry,inducción ,1,0.068,0.00068
+3116,Cry,inducción ,2,0.018,0.00018
+3118,Cry,control,1,0.656,0.00656
+3118,Cry,control,2,0.144,0.00144
+3118,Cry,inducción ,1,0.396,0.00396
+3118,Cry,inducción ,2,1.07,0.0107
+3121,Cry,control,1,0.74,0.0074
+3121,Cry,control,2,2.258,0.02258
+3121,Cry,inducción ,1,4.234,0.04234
+3121,Cry,inducción ,2,4.138,0.04138
+3123,Cry,control,1,0.752,0.00752
+3123,Cry,control,2,1.266,0.01266
+3123,Cry,inducción ,1,1.42,0.0142
+3123,Cry,inducción ,2,4.974,0.04974
+3126,Cry,control,1,5.49,0.0549
+3126,Cry,control,2,1.084,0.01084
+3126,Cry,inducción ,1,1.302,0.01302
+3126,Cry,inducción ,2,2.936,0.02936
+3038,Cp4,control,1,14.956,0.14956
+3038,Cp4,control,2,0.968,0.00968
+3038,Cp4,inducción ,1,9.434,0.09434
+3038,Cp4,inducción ,2,4.368,0.04368
+3045,Cp4,control,1,0.632,0.00632
+3045,Cp4,control,2,3.11,0.0311
+3045,Cp4,inducción ,1,3.926,0.03926
+3045,Cp4,inducción ,2,5.32,0.0532
+3054,Cp4,control,1,0.208,0.00208
+3054,Cp4,control,2,1.522,0.01522
+3054,Cp4,inducción ,1,9.866,0.09866
+3054,Cp4,inducción ,2,0.5,0.005
+3055,Cp4,control,1,9.126,0.09126
+3055,Cp4,inducción ,1,13.562,0.13562
+3055,Cp4,inducción ,2,3.13,0.0313
+3056,Cp4,control,1,6.104,0.06104
+3056,Cp4,control,2,1.634,0.01634
+3056,Cp4,inducción ,1,12.404,0.12404
+3056,Cp4,inducción ,2,1.506,0.01506
+3132,Cp4,control,1,0.552,0.00552
+3132,Cp4,control,2,1.218,0.01218
+3132,Cp4,inducción ,1,1.48,0.0148
+3132,Cp4,inducción ,2,4.17,0.0417
+3313,Cp4,control,2,1.91,0.0191
+3313,Cp4,inducción ,1,1.094,0.01094
+3313,Cp4,inducción ,2,1.754,0.01754
